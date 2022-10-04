@@ -1,0 +1,8 @@
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core">
+  <div>
+    <p>
+      Collecting metrics period in seconds (effectively loaded after restart).
+    </p>
+  </div>
+</j:jelly>

@@ -1,0 +1,8 @@
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core">
+  <div>
+    <p>
+      Fetch the test results of builds.
+    </p>
+  </div>
+</j:jelly>

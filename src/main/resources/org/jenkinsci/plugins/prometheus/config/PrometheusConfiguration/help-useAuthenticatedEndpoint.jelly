@@ -1,0 +1,8 @@
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core">
+  <div>
+    <p>
+      Enable authentication for the Prometheus endpoint.
+    </p>
+  </div>
+</j:jelly>
